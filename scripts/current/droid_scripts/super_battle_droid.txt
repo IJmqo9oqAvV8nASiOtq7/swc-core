@@ -1,2 +1,2 @@
-Block: start
-DIE JEDI DOGS, DIE! Oh no, what am I saying?
+(defun start
+	(say "DIE JEDI DOGS, DIE! Oh no, what am I saying?"))
