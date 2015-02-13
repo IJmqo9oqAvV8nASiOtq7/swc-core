@@ -4,7 +4,7 @@
 	(add-response "Do you speak Bocci?" bocci))
 	
 (defun yeah
-	(say (concat "Good choice good " (get-race-self) ". I'll be on my way now.")))
+	(say (concat "Good choice good " (get-race self) ". I'll be on my way now.")))
 	
 (defun bocci
 	(say "What? Why on earth would I speak that?"))
